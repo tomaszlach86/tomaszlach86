@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tomaszlach86
+- 👀 I’m interested in software development, have been working for 11 ears as test automation specialist/qa
+- 🌱 Currently I'm focusing changing my career path and become a developer. In my free time I concentrate on Machine Learning and using it in software testing. 
+- 💞️ I’m looking to collaborate on topics, which may be interesing for me: test automation, application development, machine learning
+- 📫 If you would like to reach me, please contact me via tomas.lach@protonmail.com
